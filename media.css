@@ -1,0 +1,170 @@
+.div1{
+    color: #000;
+font-family: Raleway;
+font-size: 40px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.div2{
+width: 1022px;
+height: 353px;
+flex-shrink: 0;
+display: flex;
+gap: 20px;
+flex-direction: row;
+
+}
+.div0{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    align-items:end;
+}
+.btn0{
+    width: 108px;
+height: 47px;
+flex-shrink: 0;
+border: 0.5px solid #000;
+}
+.p1{
+    color: #000;
+font-family: Raleway;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.p2{
+    color: #000;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.p3{
+    color: #000;
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.div2inside1{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+.div2insidebtn{
+    width: 71.2px;
+height: 29.6px;
+flex-shrink: 0;
+border: 0.64px solid #999;
+}
+.p4{
+    color: #000;
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.p5{
+    color: #000;
+font-family: Raleway;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+.im2{
+    width: 15.36px;
+height: 15.36px;
+flex-shrink: 0;
+fill: #1F1C1D;
+border: 2px solid #DDD;
+padding: 1px;
+border-radius: 10px;
+}
+.im{
+width: 230px;
+height: 320px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.span1{
+    color: #000;
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.span2{
+    color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.span3{
+    width: 17.031px;
+height: 17.031px;
+flex-shrink: 0;
+}
+.p6{
+    color: #000;
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.p7{
+    color: #000;
+font-family: Raleway;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.div4{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+.p8{
+    color: #000;
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration-line: underline;
+}
+.im3{
+    width: 21.12px;
+height: 19.2px;
+flex-shrink: 0;
+stroke-width: 1.28px;
+stroke: var(--fill_icon, #222);
+}
+.maindiv{
+flex-direction: column;
+display: flex;
+}
+.div5{
+    display: flex;
+    flex-direction: column;
+}
